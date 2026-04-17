@@ -116,6 +116,4 @@ Autonomous research assistant using multiple specialized AI agents to gather, an
 
 **Thanks for visiting! Feel free to explore my repositories and connect with me.**
 
-![Visitor Count](https://profile-counter.glitch.me/Haider4300/count.svg)
-
 </div>
