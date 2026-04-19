@@ -27,7 +27,6 @@ I'm **Ali Haider**, an **AI Engineer** specializing in **Agentic AI** and **Larg
 
 ### Vector Databases & RAG
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Chroma](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge&logo=chroma&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C389?style=for-the-badge&logo=weaviate&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0081CB?style=for-the-badge&logo=meta&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
@@ -35,7 +34,6 @@ I'm **Ali Haider**, an **AI Engineer** specializing in **Agentic AI** and **Larg
 ### Backend & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
 ### ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -48,23 +46,9 @@ I'm **Ali Haider**, an **AI Engineer** specializing in **Agentic AI** and **Larg
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haider4300&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider4300&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haider4300&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
@@ -104,15 +88,14 @@ Autonomous research assistant using multiple specialized AI agents to gather, an
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Sometimes God Closes Every Door, <div>
+Just To Make Realize You Are The Key.**
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🌟 *"Building intelligent agents that think, learn, and act autonomously."* 
 
 **Thanks for visiting! Feel free to explore my repositories and connect with me.**
 
