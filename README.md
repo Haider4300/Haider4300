@@ -27,9 +27,7 @@ I'm **Ali Haider**, an **AI Engineer** specializing in **Agentic AI** and **Larg
 
 ### Vector Databases & RAG
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C389?style=for-the-badge&logo=weaviate&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0081CB?style=for-the-badge&logo=meta&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ### Backend & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
