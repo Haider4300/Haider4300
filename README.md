@@ -86,8 +86,8 @@ Autonomous research assistant using multiple specialized AI agents to gather, an
 
 <div align="center">
 
-**Sometimes God Closes Every Door, <div>
-Just To Make Realize You Are The Key.**
+"Rest at the end, not in the middle." <div>
+— Keep pushing. You're not done yet. 
 
 </div>
 
