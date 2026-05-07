@@ -6,7 +6,7 @@ I'm **Ali Haider**, an **AI Engineer** specializing in **Agentic AI** and **Larg
 
 - 🤖 **Currently focused on:** Agentic AI systems, LangChain frameworks, and RAG (Retrieval-Augmented Generation) architectures
 - 🔧 **Building with:** LLMs, Vector Databases, FastAPI, LangChain, LangGraph, and AI agents
-- 💡 **Expertise:** LLM fine-tuning, prompt engineering, semantic search, conversational AI, and autonomous agent orchestration
+- 💡 **Expertise:** LLMs, RAG pipelines, semantic search, AI agents, LangChain, FastAPI, computer vision, Deep Learning & prompt engineering
 - 🎯 **Goal:** Creating production-ready AI agents that can reason, plan, and execute complex tasks autonomously
 - 💼 **Passion:** Pushing the boundaries of what's possible with LLMs and multi-agent systems
 
